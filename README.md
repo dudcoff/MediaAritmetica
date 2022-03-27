@@ -1,2 +1,2 @@
 # MediaAritmetica
-exercicio
+exercicio - 18/03
